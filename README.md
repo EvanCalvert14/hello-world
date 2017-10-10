@@ -1,2 +1,8 @@
-# hello-world
-First repository
+# SDI
+Software Design and Implemtation
+
+## Project Description
+
+## Group
+
+## Tutor
